@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "axios": "^1.7.7",
+    "body-parser": "^1.20.3",
+    "bootstrap": "^5.3.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "mssql": "^11.0.1",
+    "nodemon": "^3.1.7",
+    "react-bootstrap": "^2.10.5",
+    "react-router-dom": "^6.27.0",
+    "scss": "^0.2.4",
+    "xlsx": "^0.18.5"
+  },
+  "name": "web_dhyd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
